@@ -26,7 +26,7 @@ use Plugins::SqueezeCloud::ProtocolHandler;
 
 my $log;
 my $compat;
-my $CLIENT_ID = "ff21e0d51f1ea3baf9607a1d072c564f";
+my $CLIENT_ID = "e7c5685f862f0659085abbf7dc00e3fd";
 
 my %METADATA_CACHE= {};
 
